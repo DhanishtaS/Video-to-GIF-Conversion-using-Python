@@ -16,3 +16,5 @@ Add text overlays and effects.
 --Technologies Used:-
 Programming Languages: Python
 Libraries: moviepy
+
+GIF:-
