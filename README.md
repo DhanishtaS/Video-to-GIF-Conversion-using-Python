@@ -17,6 +17,8 @@ Add text overlays and effects.
 Programming Languages: Python
 Libraries: moviepy
 
-GIF:-
+# GIF:-
+
+
 ![bby](https://github.com/user-attachments/assets/ec7c0556-6331-4b90-9935-d73988b65fc2)
 
